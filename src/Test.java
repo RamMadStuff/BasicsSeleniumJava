@@ -8,6 +8,7 @@ public class Test {
       if(country.equalsIgnoreCase("IN")){
         System.out.println(locale.getLanguage());
         System.out.println("code is not working fine");
+        System.out.println("code is not working fine");
         
       }
     }
